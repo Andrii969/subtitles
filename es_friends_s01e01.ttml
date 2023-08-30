@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="es" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Subtitles</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body>
+    <div>
+      <p begin="47.9s" id="p0" end="49.8s">[BOCANAS DEL COCHE]</p>
+      <p begin="50.0s" id="p1" end="52.8s">No hay nada que decir.<br />Es solo un tipo con el que trabajo.</p>
+      <p begin="53.0s" id="p2" end="55.1s">Vamos.<br />Vas a salir con un chico.</p>
+      <p begin="55.3s" id="p3" end="57.8s">Tiene que haber algo<br />mal con el</p>
+      <p begin="58.1s" id="p4" end="59.9s">entonces tiene joroba<br />y una pieza de pelo?</p>
+      <p begin="62.4s" id="p5" end="63.8s">Esperar. ¿Come tiza?</p>
+      <p begin="65.0s" id="p6" end="68.2s">no quiero que ella pase<br />lo que pasé con Carl. Oh.</p>
+      <p begin="68.4s" id="p7" end="71.2s">Bien, todos relájense.<br />Esto ni siquiera es una cita.</p>
+      <p begin="71.4s" id="p8" end="74.4s">Son solo dos personas saliendo.<br />a cenar y no tener sexo.</p>
+      <p begin="74.6s" id="p9" end="76.2s">Suena como una cita para mí.</p>
+      <p begin="79.0s" id="p10" end="81.9s">Estoy de vuelta en la escuela secundaria,<br />en medio de la cafetería...</p>
+      <p begin="82.1s" id="p11" end="85.4s">...y me doy cuenta de que estoy totalmente desnudo.</p>
+      <p begin="85.6s" id="p12" end="87.2s">- Oh sí.<br />- He tenido ese sueño.</p>
+      <p begin="87.4s" id="p13" end="91.5s">Entonces miro hacia abajo y me doy cuenta<br />hay un teléfono...</p>
+      <p begin="92.1s" id="p14" end="94.0s">...allá.</p>
+      <p begin="94.9s" id="p15" end="96.8s">- En lugar de...<br />- ¡Así es!</p>
+      <p begin="97.1s" id="p16" end="98.6s">MONICA: Ese, nunca lo he tenido.<br />PHOEBE: No.</p>
+      <p begin="98.7s" id="p17" end="102.9s">De repente,<br />el teléfono comienza a sonar.</p>
+      <p begin="103.1s" id="p18" end="104.8s">Y resulta que es mi madre.</p>
+      <p begin="106.6s" id="p19" end="110.9s">que es muy, muy raro<br />porque ella nunca me llama.</p>
+      <p begin="115.9s" id="p20" end="117.8s">Hola.</p>
+      <p begin="118.8s" id="p21" end="122.0s">Este tipo dice "hola"<br />Quiero suicidarme.</p>
+      <p begin="122.2s" id="p22" end="123.4s">¿Estás bien, cariño?</p>
+      <p begin="123.7s" id="p23" end="128.3s">Siento que alguien agarró mi pequeño<br />intestino, me lo sacó de la boca...</p>
+      <p begin="128.5s" id="p24" end="131.4s">... y lo ató alrededor de mi cuello.<br />- ¿Galleta?</p>
+      <p begin="133.4s" id="p25" end="134.9s">Carol sacó sus cosas hoy.</p>
+      <p begin="135.1s" id="p26" end="136.1s">PHOEBE Y JOEY:<br />Oh.</p>
+      <p begin="136.3s" id="p27" end="138.1s">- Déjame traerte un café.<br />- Gracias.</p>
+      <p begin="141.1s" id="p28" end="142.8s">Ew. Unh.</p>
+      <p begin="143.0s" id="p29" end="146.9s">¡No, no, no!<br />Deja de limpiar mi aura.</p>
+      <p begin="147.2s" id="p30" end="149.8s">Solo deja mi aura en paz, ¿de acuerdo?</p>
+      <p begin="151.8s" id="p31" end="154.7s">Estaré bien. ¿Está bien? En realidad.<br />Espero que ella sea muy feliz.</p>
+      <p begin="154.8s" id="p32" end="156.2s">- No, no lo haces.<br />- No, no lo hago.</p>
+      <p begin="156.3s" id="p33" end="158.2s">Al diablo con ella. ¡Ella me dejó!</p>
+      <p begin="159.2s" id="p34" end="161.2s">Y nunca supiste que era lesbiana.</p>
+      <p begin="165.2s" id="p35" end="167.4s">¡No! ¿Bueno?</p>
+      <p begin="167.5s" id="p36" end="170.3s">¿Por qué todos<br />seguir obsesionado con eso?</p>
+      <p begin="172.0s" id="p37" end="174.8s">ella no sabía ¿Cómo debería saberlo?</p>
+      <p begin="176.6s" id="p38" end="179.3s">A veces desearía ser lesbiana.</p>
+      <p begin="180.9s" id="p39" end="182.9s">¿He dicho eso en voz alta?</p>
+      <p begin="184.8s" id="p40" end="188.9s">Está bien, Ross. Mira, te sientes<br />mucho dolor en este momento.</p>
+      <p begin="189.1s" id="p41" end="191.5s">Estás enojado. Estás sufriendo.</p>
+      <p begin="191.7s" id="p42" end="193.9s">¿Puedo decirte cuál es la respuesta?</p>
+      <p begin="194.2s" id="p43" end="195.4s">Tira juntas!</p>
+      <p begin="197.6s" id="p44" end="199.9s">Vamos, estás soltero.<br />Tener algunas hormonas.</p>
+      <p begin="200.2s" id="p45" end="202.5s">Mira, pero no quiero<br />ser soltera, ¿de acuerdo?</p>
+      <p begin="202.7s" id="p46" end="205.8s">Solo quiero volver a casarme.</p>
+      <p begin="210.0s" id="p47" end="213.1s">¡Y solo quiero un millón de dólares!</p>
+      <p begin="214.2s" id="p48" end="215.3s">¿Raquel?</p>
+      <p begin="215.5s" id="p49" end="218.2s">¡Oh, Dios, Mónica! ¡Hola! ¡Gracias a Dios!</p>
+      <p begin="218.3s" id="p50" end="221.5s">Fui a tu edificio y<br />este tipo con un martillo dijo...</p>
+      <p begin="221.7s" id="p51" end="223.9s">...que podrías estar aquí, y lo estás.</p>
+      <p begin="224.1s" id="p52" end="227.6s">- ¿Puedo traerte un café?<br />- Descafeinado.</p>
+      <p begin="228.2s" id="p53" end="232.2s">Bien, todos, esta es Rachel,<br />otro sobreviviente de Lincoln High.</p>
+      <p begin="232.4s" id="p54" end="234.9s">Esto es todo el mundo.<br />Ellos son Chandler y Phoebe...</p>
+      <p begin="235.1s" id="p55" end="237.4s">...y Joey. Y recuerda<br />¿Mi hermano Ross?</p>
+      <p begin="237.5s" id="p56" end="238.7s">- ¡Seguro!<br />- Ey.</p>
+      <p begin="238.8s" id="p57" end="240.7s">- Hola.<br />- Oh Dios.</p>
+      <p begin="247.0s" id="p58" end="248.3s">[suspiros]</p>
+      <p begin="248.5s" id="p59" end="252.1s">Así que quieres decirnos ahora, o estamos<br />esperando cuatro damas de honor mojadas?</p>
+      <p begin="254.4s" id="p60" end="259.3s">¡Oh Dios! Bueno, empezó sobre<br />media hora antes de la boda.</p>
+      <p begin="259.5s" id="p61" end="261.9s">yo estaba en esta habitación<br />con todos los regalos...</p>
+      <p begin="262.1s" id="p62" end="263.9s">... y estaba mirando<br />en esta salsera.</p>
+      <p begin="264.1s" id="p63" end="267.6s">esto realmente hermoso<br />Salsera de Limoges.</p>
+      <p begin="267.7s" id="p64" end="269.6s">Cuando de repente...<br />¿Dulce n bajo?</p>
+      <p begin="269.7s" id="p65" end="271.9s">- Me di cuenta...</p>
+      <p begin="272.0s" id="p66" end="275.9s">... Yo estaba más excitado por<br />esta salsera que por Barry.</p>
+      <p begin="276.1s" id="p67" end="279.2s">Entonces me asusté mucho,<br />y fue entonces cuando me di cuenta:</p>
+      <p begin="279.3s" id="p68" end="282.1s">Cuanto se ve Barry<br />como el Sr. Cara de Papa.</p>
+      <p begin="282.5s" id="p69" end="285.8s">Sabes, quiero decir, siempre supe<br />me resultaba familiar, pero...</p>
+      <p begin="288.0s" id="p70" end="291.3s">De todos modos, sólo tenía que salir de allí,<br />y comencé a preguntarme:</p>
+      <p begin="291.5s" id="p71" end="295.1s">"¿Por qué estoy haciendo esto?"<br />Y "¿Para quién estoy haciendo esto?"</p>
+      <p begin="295.3s" id="p72" end="299.7s">De todos modos, simplemente no sabía a dónde ir,<br />y sé que tú y yo nos hemos distanciado...</p>
+      <p begin="299.9s" id="p73" end="302.7s">...pero eres la única persona<br />Lo sé en la ciudad.</p>
+      <p begin="302.9s" id="p74" end="304.6s">Quién no fue invitado a la boda.</p>
+      <p begin="305.0s" id="p75" end="307.9s">Oh, estaba un poco esperando que<br />no sería un problema.</p>
+      <p begin="315.2s" id="p76" end="317.3s">[HABLANDO EN ESPAÑOL<br />EN TV]</p>
+      <p begin="322.1s" id="p77" end="324.6s">Supongo que la compró<br />el gran órgano de tubos...</p>
+      <p begin="324.7s" id="p78" end="327.2s">... y ella realmente no lo es<br />feliz por eso</p>
+      <p begin="328.5s" id="p79" end="331.5s">Papi, yo solo... no puedo casarme con él.</p>
+      <p begin="331.7s" id="p80" end="333.3s">Lo lamento.</p>
+      <p begin="333.5s" id="p81" end="336.4s">Simplemente no lo amo.</p>
+      <p begin="336.8s" id="p82" end="339.5s">Bueno, me importa.</p>
+      <p begin="342.0s" id="p83" end="344.4s">VELERO:<br />Ella no debería llevar esos pantalones.</p>
+      <p begin="345.6s" id="p84" end="347.6s">Digo empujarla por las escaleras.</p>
+      <p begin="347.8s" id="p85" end="351.0s">TODOS: ¡Empújala por las escaleras!<br />¡Empújala por las escaleras!</p>
+      <p begin="351.4s" id="p86" end="352.5s">[TODOS ANIMAN Y APLAUDEN]</p>
+      <p begin="355.2s" id="p87" end="357.2s">¡Vamos, papá, escúchame!</p>
+      <p begin="357.4s" id="p88" end="362.0s">Es como toda mi vida, la de todos<br />Siempre me decía: "¡Eres un zapato!</p>
+      <p begin="362.2s" id="p89" end="364.2s">¡Eres un zapato! ¡Eres un zapato!<br />¡Eres un zapato!"</p>
+      <p begin="364.4s" id="p90" end="367.6s">Entonces hoy me detuve y dije:<br />"¿Qué pasa si no quiero ser un zapato?</p>
+      <p begin="367.8s" id="p91" end="371.0s">¿Y si quiero ser un monedero?<br />¿Sabes?</p>
+      <p begin="371.2s" id="p92" end="373.0s">¿O un sombrero?"</p>
+      <p begin="373.9s" id="p93" end="376.4s">No quiero que me compres un sombrero,<br />soy un sombrero</p>
+      <p begin="376.6s" id="p94" end="378.8s">¡Es una metáfora, papá!</p>
+      <p begin="380.5s" id="p95" end="382.4s">Puedes ver dónde tendría problemas.</p>
+      <p begin="385.6s" id="p96" end="387.5s">Mira, papi, es mi vida.</p>
+      <p begin="388.8s" id="p97" end="391.3s">Bueno, tal vez me quede<br />Aquí con Mónica.</p>
+      <p begin="394.3s" id="p98" end="396.8s">Supongo que hemos establecido<br />ella se queda con Mónica.</p>
+      <p begin="398.9s" id="p99" end="401.7s">Bueno, tal vez esa sea mi decisión.</p>
+      <p begin="402.3s" id="p100" end="404.5s">Bueno, tal vez no necesito tu dinero.</p>
+      <p begin="404.7s" id="p101" end="406.9s">¡Esperar! ¡Esperar! ¡Dije tal vez!</p>
+      <p begin="413.9s" id="p102" end="416.1s">Bueno. Solo respira, eso es todo.</p>
+      <p begin="416.3s" id="p103" end="418.8s">Solo trata de pensar en cosas agradables y tranquilas.</p>
+      <p begin="419.0s" id="p104" end="422.9s">[CANTANDO] Gotas de lluvia en las rosas<br />Y bigotes en los gatitos</p>
+      <p begin="423.3s" id="p105" end="427.2s">Timbres y campanas de trineo<br />Y algo con mitones</p>
+      <p begin="428.0s" id="p106" end="431.3s">La la la algo<br />con cuerda</p>
+      <p begin="431.5s" id="p107" end="433.4s">Estoy mucho mejor ahora.</p>
+      <p begin="435.2s" id="p108" end="437.2s">Ayudé.</p>
+      <p begin="438.9s" id="p109" end="441.2s">MONICA: Mira, esto es probablemente<br />para lo mejor, ¿sabes?</p>
+      <p begin="441.5s" id="p110" end="444.1s">Independencia. Tomando el control de tu vida.</p>
+      <p begin="444.3s" id="p111" end="448.6s">Y, oye, si necesitas algo,<br />siempre puedes venir a Joey.</p>
+      <p begin="448.8s" id="p112" end="452.2s">Chandler y yo vivimos bien<br />a través del pasillo. Y está fuera mucho.</p>
+      <p begin="454.1s" id="p113" end="456.6s">Joey, deja de coquetear con ella.<br />Es el día de su boda.</p>
+      <p begin="456.8s" id="p114" end="458.8s">¿Qué? ¿Como si hubiera una regla o algo así?</p>
+      <p begin="459.5s" id="p115" end="460.6s">[ZUMBIOS DEL INTERCOMUNICADOR]</p>
+      <p begin="461.3s" id="p116" end="464.9s">Por favor, no vuelvas a hacer eso.<br />Es un sonido horrible.</p>
+      <p begin="465.0s" id="p117" end="467.5s">PABLO: Eh, es Paul.<br />- Llámalo para que entre.</p>
+      <p begin="467.8s" id="p118" end="470.1s">- ¿Quién es Pablo?<br />- ¿Paul, el del vino, Paul?</p>
+      <p begin="470.3s" id="p119" end="471.3s">Tal vez.</p>
+      <p begin="471.5s" id="p120" end="474.8s">Espera un minuto. Tu "no es una cita real"<br />está con Paul, el chico del vino?</p>
+      <p begin="475.0s" id="p121" end="476.8s">- ¿Finalmente te invitó a salir?<br />- Sí.</p>
+      <p begin="477.0s" id="p122" end="478.8s">Oh. Este es un momento de "Querido diario".</p>
+      <p begin="480.3s" id="p123" end="481.8s">Rach, espera, puedo cancelar.</p>
+      <p begin="482.1s" id="p124" end="483.9s">Por favor no. Ve, estaré bien.</p>
+      <p begin="484.0s" id="p125" end="487.7s">Ross, ¿estás bien?<br />Quiero decir, ¿quieres que me quede?</p>
+      <p begin="488.6s" id="p126" end="490.7s">Eso sería bueno.</p>
+      <p begin="491.1s" id="p127" end="494.9s">- ¿En realidad?<br />- ¡No, adelante! Es Paul, el chico del vino.</p>
+      <p begin="495.1s" id="p128" end="496.2s">[LLAMANDO A LA PUERTA]</p>
+      <p begin="498.7s" id="p129" end="501.1s">MÓNICA:<br />Hola, pasa. Paul, soy...</p>
+      <p begin="502.0s" id="p130" end="504.5s">...todos. Todos, este es Paul.</p>
+      <p begin="505.0s" id="p131" end="506.0s">JOEY:<br />Paul, el chico del vino.</p>
+      <p begin="506.3s" id="p132" end="510.1s">- Chico del vino.<br />- No entendí tu nombre. Pablo, ¿era?</p>
+      <p begin="510.5s" id="p133" end="513.1s">- Bueno. Siéntate. Dos segundos.<br />- Bueno.</p>
+      <p begin="513.6s" id="p134" end="516.0s">[BOCA]</p>
+      <p begin="517.2s" id="p135" end="520.3s">Ooh, acabo de sacar cuatro pestañas.<br />Eso no puede ser bueno.</p>
+      <p begin="522.9s" id="p136" end="524.7s">Entonces, Raquel,<br />que vas a hacer esta noche?</p>
+      <p begin="525.3s" id="p137" end="529.1s">Bueno, se suponía que debía dirigirme<br />para Aruba en mi luna de miel...</p>
+      <p begin="529.3s" id="p138" end="530.3s">...asi que nada.</p>
+      <p begin="532.7s" id="p139" end="535.0s">Bien. ni siquiera eres<br />recibiendo su luna de miel.</p>
+      <p begin="535.2s" id="p140" end="539.2s">Dios. No no. Aunque, Aruba. je.<br />¿Esta época del año? Eh</p>
+      <p begin="539.4s" id="p141" end="542.0s">Habla de tu...</p>
+      <p begin="542.1s" id="p142" end="543.2s">...grandes lagartos.</p>
+      <p begin="548.0s" id="p143" end="550.7s">De todos modos, si no te sientes<br />como estar solo esta noche...</p>
+      <p begin="550.9s" id="p144" end="553.7s">...Joey y Chandler son<br />ayudándome con mis muebles.</p>
+      <p begin="553.9s" id="p145" end="557.1s">Sí, y estamos muy emocionados por ello.</p>
+      <p begin="557.2s" id="p146" end="560.6s">En realidad, gracias, pero solo voy a<br />pasar el rato aquí esta noche.</p>
+      <p begin="560.7s" id="p147" end="562.8s">- Ha sido un largo día.<br />- Oh, por supuesto. Bueno. Seguro.</p>
+      <p begin="562.9s" id="p148" end="564.3s">Oye, Pheebs, ¿quieres ayudar?</p>
+      <p begin="564.7s" id="p149" end="566.6s">Oh, me gustaría poder, pero no quiero.</p>
+      <p begin="574.9s" id="p150" end="579.3s">Se supone que debo adjuntar un soporte-y<br />cosa a un lado cosas...</p>
+      <p begin="579.5s" id="p151" end="582.2s">... usando un montón de estos<br />pequeños gusanos.</p>
+      <p begin="583.4s" id="p152" end="588.2s">No tengo cosa de soporte,<br />No veo ningún tipo de gusano...</p>
+      <p begin="588.3s" id="p153" end="591.4s">...y no puedo sentir mis piernas.</p>
+      <p begin="593.0s" id="p154" end="594.1s">¿Qué es esto?</p>
+      <p begin="594.3s" id="p155" end="597.3s">No tengo ni idea.</p>
+      <p begin="599.1s" id="p156" end="601.6s">- Listo con la librería.<br />- Todo terminado.</p>
+      <p begin="605.1s" id="p157" end="606.9s">Esta era la cerveza favorita de Carol.</p>
+      <p begin="609.0s" id="p158" end="611.7s">Siempre lo bebía de la lata.<br />Debería haber sabido.</p>
+      <p begin="611.9s" id="p159" end="615.1s">Ey. Ross, déjame hacerte una pregunta.</p>
+      <p begin="615.2s" id="p160" end="619.5s">Ella consiguió los muebles,<br />el stereo, la buena tv.</p>
+      <p begin="619.6s" id="p161" end="620.7s">¿Qué obtuviste?</p>
+      <p begin="621.0s" id="p162" end="622.0s">Ustedes.</p>
+      <p begin="622.2s" id="p163" end="624.3s">- Oh Dios. Ay dios mío.<br />- Te jodieron.</p>
+      <p begin="624.5s" id="p164" end="628.8s">- Ay dios mío.<br />- Sé que sé. Soy un idiota.</p>
+      <p begin="629.3s" id="p165" end="633.9s">Debería haberme dado cuenta cuando ella fue a<br />al dentista cuatro y cinco veces por semana.</p>
+      <p begin="634.1s" id="p166" end="636.3s">Quiero decir, ¿qué tan limpios pueden quedar los dientes?</p>
+      <p begin="636.4s" id="p167" end="638.8s">Mi hermano está pasando por eso.<br />Es un desastre.</p>
+      <p begin="639.0s" id="p168" end="640.7s">como lo superaste?</p>
+      <p begin="640.9s" id="p169" end="644.4s">Podría intentar romper accidentalmente<br />algo valioso de ella.</p>
+      <p begin="644.6s" id="p170" end="646.1s">- Dile ella...<br />- ¿Pierna?</p>
+      <p begin="646.3s" id="p171" end="648.2s">je. Esa es una forma de atravesarlo,<br />sí.</p>
+      <p begin="648.8s" id="p172" end="650.3s">Yo, fui por el reloj.</p>
+      <p begin="650.8s" id="p173" end="652.7s">- ¿De verdad rompiste su reloj?<br />- Mm.</p>
+      <p begin="653.3s" id="p174" end="656.4s">Barry, lo siento. Lo siento mucho.</p>
+      <p begin="656.6s" id="p175" end="661.5s">Probablemente pienses que se trata de hacer<br />amor con los calcetines puestos, pero no lo es.</p>
+      <p begin="661.7s" id="p176" end="664.5s">No lo es, se trata de mí. Y yo...</p>
+      <p begin="664.7s" id="p177" end="666.7s">[suspiros]</p>
+      <p begin="671.6s" id="p178" end="674.6s">Hola. La máquina me cortó de nuevo.<br />De todos modos...</p>
+      <p begin="676.4s" id="p179" end="680.5s">¿Sabes lo que da miedo? Y si<br />solo hay una mujer para todos?</p>
+      <p begin="680.7s" id="p180" end="684.1s">Quiero decir, ¿y si consigues uno?<br />mujer, y eso es todo?</p>
+      <p begin="684.2s" id="p181" end="689.1s">Desafortunadamente, en mi caso,<br />sólo había una mujer para ella.</p>
+      <p begin="689.6s" id="p182" end="692.8s">¿De qué estás hablando?<br />Una mujer.</p>
+      <p begin="693.4s" id="p183" end="697.0s">Eso es como decir que solo hay<br />un sabor de helado para ti.</p>
+      <p begin="697.2s" id="p184" end="700.9s">Déjame decirte algo, Ross.<br />Hay un montón de sabores por ahí.</p>
+      <p begin="701.1s" id="p185" end="705.6s">Hay camino rocoso y masa para galletas<br />y bing cereza vainilla.</p>
+      <p begin="706.2s" id="p186" end="710.7s">Puedes conseguirlos con jimmies.<br />o nueces o crema batida.</p>
+      <p begin="711.0s" id="p187" end="713.6s">Esto es lo mejor que<br />alguna vez te ha pasado</p>
+      <p begin="713.8s" id="p188" end="716.7s">Te casaste. Tenías como, ¿qué, 8?</p>
+      <p begin="718.6s" id="p189" end="722.6s">Bienvenido de nuevo al mundo. Agarra una cuchara.</p>
+      <p begin="722.8s" id="p190" end="725.3s">sinceramente no lo se<br />si tengo hambre o estoy caliente.</p>
+      <p begin="725.8s" id="p191" end="727.2s">Entonces quédate fuera de mi congelador.</p>
+      <p begin="730.9s" id="p192" end="734.4s">Desde que me abandonó, yo...</p>
+      <p begin="734.7s" id="p193" end="736.7s">¿Qué? ¿Qué?</p>
+      <p begin="736.8s" id="p194" end="738.7s">¿Quieres deletrearlo con fideos?</p>
+      <p begin="738.9s" id="p195" end="742.4s">No, es más como una quinta cita.<br />especie de revelación.</p>
+      <p begin="743.2s" id="p196" end="746.3s">Oh, ¿entonces habrá una quinta cita?</p>
+      <p begin="747.8s" id="p197" end="749.5s">¿No hay?</p>
+      <p begin="749.7s" id="p198" end="751.9s">Sí, sí. creo que hay</p>
+      <p begin="753.7s" id="p199" end="755.4s">¿Qué ibas a decir?</p>
+      <p begin="757.0s" id="p200" end="759.2s">Bueno... Eh, eh...</p>
+      <p begin="760.3s" id="p201" end="762.6s">Desde que ella me dejó, um...</p>
+      <p begin="763.7s" id="p202" end="767.0s">...No he podido realizar...</p>
+      <p begin="767.2s" id="p203" end="768.4s">...sexualmente.</p>
+      <p begin="771.3s" id="p204" end="772.8s">¡Oh Dios! ¡Oh Dios! Yo soy tan...</p>
+      <p begin="773.0s" id="p205" end="774.2s">- Lo siento mucho.<br />- Está bien.</p>
+      <p begin="774.4s" id="p206" end="777.9s">Ser escupido es probablemente<br />no es lo que necesitas ahora.</p>
+      <p begin="778.0s" id="p207" end="779.7s">Mmm...</p>
+      <p begin="780.1s" id="p208" end="781.2s">¿Cuánto tiempo?</p>
+      <p begin="781.7s" id="p209" end="782.8s">Dos años.</p>
+      <p begin="783.6s" id="p210" end="785.3s">¡Guau!</p>
+      <p begin="785.5s" id="p211" end="788.4s">Me alegro de que rompieras su reloj.</p>
+      <p begin="790.4s" id="p212" end="793.8s">Así que todavía piensas que podrías<br />¿Quieres esa quinta cita?</p>
+      <p begin="796.8s" id="p213" end="798.3s">Sí.</p>
+      <p begin="798.5s" id="p214" end="800.3s">Sí lo hago.</p>
+      <p begin="801.6s" id="p215" end="804.9s">Yo, Joanie, te llevo, Charles,<br />como mi esposo legítimo.</p>
+      <p begin="805.2s" id="p216" end="808.5s">MINISTRO: ¿Lleva a Joanie...?<br />- ¡Oh! Ver.</p>
+      <p begin="808.6s" id="p217" end="813.9s">Pero Joanie amaba a Chachi.<br />Esa es la diferencia.</p>
+      <p begin="815.4s" id="p218" end="816.8s">"Agarra una cuchara."</p>
+      <p begin="817.1s" id="p219" end="819.6s">¿Sabes cuánto tiempo ha pasado?<br />desde que agarré una cuchara?</p>
+      <p begin="820.1s" id="p220" end="822.9s">Haz las palabras, "Billy, no seas<br />un héroe", significa algo para ti?</p>
+      <p begin="825.2s" id="p221" end="829.7s">Ya sabes, aquí está la cosa.<br />Incluso si pudiera juntarlo lo suficiente...</p>
+      <p begin="829.9s" id="p222" end="832.4s">...para invitar a salir a una mujer...</p>
+      <p begin="832.9s" id="p223" end="835.3s">... ¿a quién le voy a preguntar?</p>
+      <p begin="856.6s" id="p224" end="858.0s">¿No es esto increíble?</p>
+      <p begin="858.1s" id="p225" end="860.5s">Quiero decir, nunca he hecho café.<br />antes en mi vida.</p>
+      <p begin="860.7s" id="p226" end="863.2s">- Esto es increíble.<br />- Felicidades.</p>
+      <p begin="863.4s" id="p227" end="868.1s">Mientras estás en racha, si sientes que<br />Tengo que hacer una tortilla occidental o algo...</p>
+      <p begin="871.0s" id="p228" end="874.5s">Aunque, en realidad estoy realmente<br />No tengo tanta hambre esta mañana.</p>
+      <p begin="875.4s" id="p229" end="876.7s">- Buen día.<br />MÓNICA: Buenos días.</p>
+      <p begin="876.9s" id="p230" end="878.5s">- Mañana.<br />JOEY: Buenos días.</p>
+      <p begin="879.4s" id="p231" end="881.6s">- Mañana.<br />JOEY: Buenos días, Paul.</p>
+      <p begin="881.8s" id="p232" end="885.0s">- Hola, Pablo.<br />- Hola. Pablo, ¿es así?</p>
+      <p begin="889.1s" id="p233" end="891.8s">MÓNICA:<br />La pasé muy bien anoche.</p>
+      <p begin="892.0s" id="p234" end="893.9s">PABLO:<br />Gracias. Muchas gracias.</p>
+      <p begin="894.6s" id="p235" end="897.5s">- Hablamos más tarde, ¿de acuerdo?<br />- Sí.</p>
+      <p begin="902.2s" id="p236" end="904.0s">Gracias.</p>
+      <p begin="909.8s" id="p237" end="912.6s">Esa no fue una cita real.</p>
+      <p begin="913.3s" id="p238" end="916.2s">¿Qué diablos haces?<br />en una cita real?</p>
+      <p begin="917.0s" id="p239" end="920.5s">- Cállate y vuelve a poner mi mesa.<br />JOEY: Está bien.</p>
+      <p begin="920.7s" id="p240" end="922.5s">Muy bien, niños, tengo que ir a trabajar.</p>
+      <p begin="922.8s" id="p241" end="928.3s">Si no ingreso esos números,<br />no hace mucha diferencia.</p>
+      <p begin="931.3s" id="p242" end="933.4s">Entonces, ¿todos ustedes tienen trabajo?</p>
+      <p begin="934.2s" id="p243" end="935.9s">Sí, todos tenemos trabajo.</p>
+      <p begin="936.1s" id="p244" end="938.7s">Mira, así es como compramos cosas.</p>
+      <p begin="940.4s" id="p245" end="941.6s">Sí, soy actor.</p>
+      <p begin="941.9s" id="p246" end="944.1s">Guau. ¿Te habría visto en algo?</p>
+      <p begin="944.3s" id="p247" end="946.6s">Ah, lo dudo. Mayormente trabajo regional.</p>
+      <p begin="946.8s" id="p248" end="950.4s">A menos que hayas atrapado el<br />La producción de Wee One de Pinocho.</p>
+      <p begin="950.7s" id="p249" end="953.2s">"Mira, Geppeto. Soy un verdadero chico vivo".</p>
+      <p begin="956.0s" id="p250" end="957.7s">No aceptaré este abuso.</p>
+      <p begin="958.0s" id="p251" end="959.9s">Tienes razón. Lo lamento.</p>
+      <p begin="960.3s" id="p252" end="963.0s">[CANTANDO] Una vez fui un niño de madera<br />Un niño de madera</p>
+      <p begin="967.1s" id="p253" end="969.5s">MONICA: Entonces, ¿cómo te va hoy?<br />¿Dormiste bien?</p>
+      <p begin="969.7s" id="p254" end="973.0s">¿Hablaste con Barry?<br />No puedo dejar de sonreír.</p>
+      <p begin="973.8s" id="p255" end="977.7s">Puedo ver eso. te pareces a ti<br />dormiste con una percha en la boca.</p>
+      <p begin="982.9s" id="p256" end="986.4s">Lo sé. Él es tan...</p>
+      <p begin="986.6s" id="p257" end="988.1s">¿Te acuerdas de ti y de Tony De Marco?</p>
+      <p begin="988.3s" id="p258" end="992.3s">- Oh sí.<br />- Bueno, es así. con sentimientos</p>
+      <p begin="993.2s" id="p259" end="994.9s">¡Oh, guau, estás en problemas!</p>
+      <p begin="995.5s" id="p260" end="999.3s">Bien bien. solo voy a levantarme,<br />ir al trabajo...</p>
+      <p begin="999.5s" id="p261" end="1002.2s">...y no pensar en él todo el día.</p>
+      <p begin="1002.4s" id="p262" end="1005.3s">O de lo contrario solo voy a<br />levantarse y ponerse a trabajar.</p>
+      <p begin="1005.5s" id="p263" end="1007.1s">- ¡Oh, deséame suerte!<br />- ¿Para qué?</p>
+      <p begin="1007.3s" id="p264" end="1010.6s">voy a ir a buscar uno<br />de esas cosas del trabajo.</p>
+      <p begin="1018.6s" id="p265" end="1021.2s">- Hola, Mónica.<br />- Hola, Franny. Bienvenido de nuevo.</p>
+      <p begin="1021.4s" id="p266" end="1022.9s">¿Cómo estuvo Florida?</p>
+      <p begin="1023.1s" id="p267" end="1024.4s">Tuviste sexo, ¿no?</p>
+      <p begin="1026.3s" id="p268" end="1027.3s">¿Cómo haces eso?</p>
+      <p begin="1028.4s" id="p269" end="1032.2s">- ¿Entonces quién?<br />- ¿Conoces a Pablo?</p>
+      <p begin="1032.8s" id="p270" end="1034.4s">¿Paul, el del vino?</p>
+      <p begin="1034.5s" id="p271" end="1036.1s">Oh, sí, conozco a Paul.</p>
+      <p begin="1038.7s" id="p272" end="1041.2s">¿Quieres decir que conoces a Paul?<br />como yo conozco a Paul?</p>
+      <p begin="1041.4s" id="p273" end="1043.7s">¿Estás bromeando? Me doy crédito por Paul.</p>
+      <p begin="1043.8s" id="p274" end="1048.0s">Antes de mí, no había chasquido<br />en su tortuga durante dos años.</p>
+      <p begin="1051.2s" id="p275" end="1053.8s">Por supuesto que era una línea.</p>
+      <p begin="1054.2s" id="p276" end="1056.8s">¿Por qué? ¿Por qué alguien<br />hacer algo asi?</p>
+      <p begin="1057.1s" id="p277" end="1060.3s">estamos buscando una respuesta<br />más sofisticado que:</p>
+      <p begin="1060.5s" id="p278" end="1062.4s">"Para llevarte a la cama".</p>
+      <p begin="1063.4s" id="p279" end="1065.0s">¿Soy yo?</p>
+      <p begin="1065.2s" id="p280" end="1068.7s">¿Es como si tuviera algún tipo de<br />faro que solo perros...</p>
+      <p begin="1068.9s" id="p281" end="1071.5s">...y hombres con problemas emocionales severos<br />problemas se puede escuchar?</p>
+      <p begin="1071.7s" id="p282" end="1073.7s">Está bien, ven aquí. Dame tus pies.</p>
+      <p begin="1081.2s" id="p283" end="1083.0s">Sólo pensé que era agradable, ¿sabes?</p>
+      <p begin="1085.9s" id="p284" end="1088.3s">no puedo creerte<br />No sabía que era una línea.</p>
+      <p begin="1093.2s" id="p285" end="1094.3s">Adivina qué.</p>
+      <p begin="1094.4s" id="p286" end="1096.2s">- ¿Tienes trabajo?<br />- ¿Estás bromeando?</p>
+      <p begin="1096.4s" id="p287" end="1098.1s">Estoy entrenado para nada.</p>
+      <p begin="1099.9s" id="p288" end="1101.9s">Me reí de 12 entrevistas hoy.</p>
+      <p begin="1102.1s" id="p289" end="1103.6s">Sin embargo, eres sorprendentemente optimista.</p>
+      <p begin="1103.9s" id="p290" end="1107.4s">Bueno, tú también lo estarías si encontraras<br />Rebajas botas Joan y David...</p>
+      <p begin="1107.5s" id="p291" end="1109.3s">... 50 por ciento de descuento.</p>
+      <p begin="1109.5s" id="p292" end="1111.3s">Ay, qué bien me conoces.</p>
+      <p begin="1112.9s" id="p293" end="1115.4s">Son mi nuevo "No necesito<br />un trabajo o mis padres.</p>
+      <p begin="1115.6s" id="p294" end="1117.8s">Tengo unas botas geniales".</p>
+      <p begin="1119.2s" id="p295" end="1121.4s">- ¿Cómo los pagaste?<br />- Eh, tarjeta de crédito.</p>
+      <p begin="1121.9s" id="p296" end="1123.6s">¿Y quién paga por eso?</p>
+      <p begin="1124.2s" id="p297" end="1126.3s">Eh, mi padre.</p>
+      <p begin="1128.9s" id="p298" end="1131.1s">No puedes vivir de tus padres.<br />toda tu vida.</p>
+      <p begin="1131.3s" id="p299" end="1135.0s">Yo sé eso. Es por eso<br />me iba a casar</p>
+      <p begin="1135.3s" id="p300" end="1138.3s">Dale un respiro. es dificil ser<br />por su cuenta por primera vez.</p>
+      <p begin="1138.5s" id="p301" end="1140.0s">- Gracias.<br />- De nada.</p>
+      <p begin="1140.2s" id="p302" end="1142.9s">Recuerdo cuando vine por primera vez<br />a esta ciudad, yo tenía 14 años.</p>
+      <p begin="1143.1s" id="p303" end="1145.9s">mi mama se habia suicidado<br />y mi padrastro estaba de vuelta en prisión.</p>
+      <p begin="1146.1s" id="p304" end="1148.1s">Y llegué aquí,<br />y yo no conocía a nadie.</p>
+      <p begin="1148.3s" id="p305" end="1151.7s">Terminé viviendo con este albino.<br />tipo que estaba limpiando parabrisas...</p>
+      <p begin="1151.9s" id="p306" end="1155.7s">...fuera de la Autoridad Portuaria.<br />Y luego se suicidó.</p>
+      <p begin="1156.4s" id="p307" end="1160.2s">Y luego encontré la aromaterapia.<br />Así que créeme, sé exactamente cómo te sientes.</p>
+      <p begin="1164.4s" id="p308" end="1167.1s">La palabra que buscas es:</p>
+      <p begin="1167.7s" id="p309" end="1169.0s">"De todos modos..."</p>
+      <p begin="1173.1s" id="p310" end="1174.3s">Está bien. ¿Estás listo?</p>
+      <p begin="1174.4s" id="p311" end="1176.1s">- No me parece.<br />ROSS: Oh, vamos.</p>
+      <p begin="1176.5s" id="p312" end="1177.9s">Cortar. Cortar.</p>
+      <p begin="1178.1s" id="p313" end="1181.1s">TODO:<br />Corta corta corta.</p>
+      <p begin="1182.7s" id="p314" end="1185.6s">ROSS: Hola.<br />MÓNICA: Está bien.</p>
+      <p begin="1185.9s" id="p315" end="1187.6s">Bienvenido al mundo real.</p>
+      <p begin="1187.8s" id="p316" end="1190.5s">apesta Te va a encantar.</p>
+      <p begin="1191.4s" id="p317" end="1193.5s">[FRANCIS SCOTT KEY'S "STAR-SPANGLED<br />BANNER" SE REPRODUCE EN LA TV]</p>
+      <p begin="1197.4s" id="p318" end="1200.8s">Bueno, eso es todo.<br />¿Vas a estrellarte en el sofá?</p>
+      <p begin="1201.0s" id="p319" end="1204.3s">- No. No, tengo que irme a casa alguna vez.<br />- ¿Vas a estar bien?</p>
+      <p begin="1204.5s" id="p320" end="1206.0s">Sí.</p>
+      <p begin="1207.0s" id="p321" end="1208.9s">Mira lo que acabo de encontrar en el suelo.</p>
+      <p begin="1211.2s" id="p322" end="1212.5s">¿Qué?</p>
+      <p begin="1212.9s" id="p323" end="1214.4s">Ese es el reloj de Paul.</p>
+      <p begin="1214.6s" id="p324" end="1216.7s">Puedes volver a ponerlo<br />donde lo encontraste</p>
+      <p begin="1218.3s" id="p325" end="1221.8s">Oh chico. Está bien.<br />Buenas noches a todo el mundo.</p>
+      <p begin="1221.9s" id="p326" end="1223.0s">ROSS Y RAQUEL:<br />Buenas noches.</p>
+      <p begin="1223.1s" id="p327" end="1225.1s">[VER GRIETAS]</p>
+      <p begin="1228.9s" id="p328" end="1230.4s">[LA PUERTA SE CIERRA]</p>
+      <p begin="1231.5s" id="p329" end="1233.1s">- Mmm.<br />- Mmm.</p>
+      <p begin="1234.3s" id="p330" end="1235.5s">- Oh, lo siento.<br />- No. Ah, no. Ir.</p>
+      <p begin="1235.7s" id="p331" end="1237.7s">- No, tenlo, de verdad.<br />- ¿Dividirlo?</p>
+      <p begin="1237.8s" id="p332" end="1239.8s">- Bueno.<br />- Bueno.</p>
+      <p begin="1241.7s" id="p333" end="1242.8s">Gracias.</p>
+      <p begin="1243.5s" id="p334" end="1247.1s">Probablemente no sabías esto,<br />pero en la escuela secundaria tenía...</p>
+      <p begin="1247.2s" id="p335" end="1249.1s">... un gran enamoramiento por ti.</p>
+      <p begin="1250.5s" id="p336" end="1251.7s">Yo sabía.</p>
+      <p begin="1252.1s" id="p337" end="1254.3s">¿Lo hiciste? Oh.</p>
+      <p begin="1255.1s" id="p338" end="1258.1s">Supuse que pensabas que yo era<br />El friki hermano mayor de Mónica.</p>
+      <p begin="1258.9s" id="p339" end="1260.9s">- Hice.<br />- Oh.</p>
+      <p begin="1265.5s" id="p340" end="1267.3s">Escucha, ¿tú crees...</p>
+      <p begin="1267.5s" id="p341" end="1271.0s">Y tratar de no dejar que mi vulnerabilidad<br />convertirse en cualquier tipo de factor aquí.</p>
+      <p begin="1273.1s" id="p342" end="1277.0s">¿Crees que estaría bien si<br />¿Te invito a salir en algún momento, tal vez?</p>
+      <p begin="1278.2s" id="p343" end="1280.1s">Sí.</p>
+      <p begin="1280.5s" id="p344" end="1281.8s">Tal vez.</p>
+      <p begin="1282.8s" id="p345" end="1284.7s">Bueno.</p>
+      <p begin="1289.4s" id="p346" end="1291.9s">Está bien, tal vez lo haré.</p>
+      <p begin="1294.2s" id="p347" end="1295.7s">[RAQUEL SE RÍE]</p>
+      <p begin="1295.8s" id="p348" end="1298.0s">- Buenas noches.<br />- Buenas noches.</p>
+      <p begin="1301.0s" id="p349" end="1303.0s">[LA PUERTA SE ABRE Y LUEGO SE CIERRA]</p>
+      <p begin="1308.4s" id="p350" end="1310.4s">[LA PUERTA SE ABRE]</p>
+      <p begin="1311.5s" id="p351" end="1313.2s">Nos vemos.</p>
+      <p begin="1313.7s" id="p352" end="1314.8s">ROSS:<br />Mm-hm.</p>
+      <p begin="1314.9s" id="p353" end="1317.4s">Espera espera. Oye, ¿qué te pasa?</p>
+      <p begin="1319.7s" id="p354" end="1322.3s">Acabo de agarrar una cuchara.</p>
+      <p begin="1330.5s" id="p355" end="1332.0s">No puedo creer lo que estoy escuchando.</p>
+      <p begin="1332.2s" id="p356" end="1333.9s">[CANTANDO] No puedo creer<br />Lo que estoy escuchando aquí</p>
+      <p begin="1334.0s" id="p357" end="1336.3s">- ¿Qué? Dije que tenías...<br />- ¿Qué? Dije que tenías...</p>
+      <p begin="1337.3s" id="p358" end="1339.8s">- ¿Quieres parar?<br />- Oh, ¿lo estaba haciendo de nuevo?</p>
+      <p begin="1340.0s" id="p359" end="1341.8s">TODO:<br />Sí.</p>
+      <p begin="1342.8s" id="p360" end="1344.8s">MUJER:<br />¿Alguien quiere más café?</p>
+      <p begin="1346.7s" id="p361" end="1349.2s">¿Lo hiciste tú o solo lo estás sirviendo?</p>
+      <p begin="1349.3s" id="p362" end="1352.6s">- Solo lo estoy sirviendo.<br />CHANDLER: Tomaré una taza de café.</p>
+      <p begin="1353.1s" id="p363" end="1354.4s">Niños, nuevo sueño.</p>
+      <p begin="1355.1s" id="p364" end="1358.4s">Estoy en Las Vegas. Soy Liza Minnelli.</p>
+    </div>
+  </body>
+</tt>

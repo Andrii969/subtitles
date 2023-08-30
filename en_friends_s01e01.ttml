@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title>Subtitles</ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body>
+    <div>
+      <p begin="47.9s" id="p0" end="49.8s">[CAR HORNS HONKING]</p>
+      <p begin="50.0s" id="p1" end="52.8s">There's nothing to tell.<br />It's just some guy I work with.</p>
+      <p begin="53.0s" id="p2" end="55.1s">Come on.<br />You're going out with a guy.</p>
+      <p begin="55.3s" id="p3" end="57.8s">There's gotta be something<br />wrong with him.</p>
+      <p begin="58.1s" id="p4" end="59.9s">So does he have a hump<br />and a hair piece?</p>
+      <p begin="62.4s" id="p5" end="63.8s">Wait. Does he eat chalk?</p>
+      <p begin="65.0s" id="p6" end="68.2s">I don't want her to go through<br />what I went through with Carl. Oh.</p>
+      <p begin="68.4s" id="p7" end="71.2s">Okay, everybody relax.<br />This is not even a date.</p>
+      <p begin="71.4s" id="p8" end="74.4s">It's just two people going out<br />to dinner and not having sex.</p>
+      <p begin="74.6s" id="p9" end="76.2s">Sounds like a date to me.</p>
+      <p begin="79.0s" id="p10" end="81.9s">I'm back in high school,<br />in the middle of the cafeteria...</p>
+      <p begin="82.1s" id="p11" end="85.4s">...and I realize I'm totally naked.</p>
+      <p begin="85.6s" id="p12" end="87.2s">- Oh, yeah.<br />- I've had that dream.</p>
+      <p begin="87.4s" id="p13" end="91.5s">Then I look down and I realize<br />there is a phone...</p>
+      <p begin="92.1s" id="p14" end="94.0s">...there.</p>
+      <p begin="94.9s" id="p15" end="96.8s">- Instead of...<br />- That's right!</p>
+      <p begin="97.1s" id="p16" end="98.6s">MONICA: That one, I've never had.<br />PHOEBE: No.</p>
+      <p begin="98.7s" id="p17" end="102.9s">All of a sudden,<br />the phone starts to ring.</p>
+      <p begin="103.1s" id="p18" end="104.8s">And it turns out it's my mother.</p>
+      <p begin="106.6s" id="p19" end="110.9s">Which is very, very weird<br />because she never calls me.</p>
+      <p begin="115.9s" id="p20" end="117.8s">Hi.</p>
+      <p begin="118.8s" id="p21" end="122.0s">This guy says "hello,"<br />I wanna kill myself.</p>
+      <p begin="122.2s" id="p22" end="123.4s">Are you okay, sweetie?</p>
+      <p begin="123.7s" id="p23" end="128.3s">I feel like someone grabbed my small<br />intestine, pulled it out of my mouth...</p>
+      <p begin="128.5s" id="p24" end="131.4s">...and tied it around my neck.<br />- Cookie?</p>
+      <p begin="133.4s" id="p25" end="134.9s">Carol moved her stuff out today.</p>
+      <p begin="135.1s" id="p26" end="136.1s">PHOEBE & JOEY:<br />Oh.</p>
+      <p begin="136.3s" id="p27" end="138.1s">- Let me get you some coffee.<br />- Thanks.</p>
+      <p begin="141.1s" id="p28" end="142.8s">Ew. Unh.</p>
+      <p begin="143.0s" id="p29" end="146.9s">No. No, don't!<br />Stop cleansing my aura.</p>
+      <p begin="147.2s" id="p30" end="149.8s">Just leave my aura alone, okay?</p>
+      <p begin="151.8s" id="p31" end="154.7s">I'll be fine. All right? Really.<br />I hope she'll be very happy.</p>
+      <p begin="154.8s" id="p32" end="156.2s">- No, you don't.<br />- No, I don't.</p>
+      <p begin="156.3s" id="p33" end="158.2s">To hell with her. She left me!</p>
+      <p begin="159.2s" id="p34" end="161.2s">And you never knew she was a lesbian.</p>
+      <p begin="165.2s" id="p35" end="167.4s">No! Okay?</p>
+      <p begin="167.5s" id="p36" end="170.3s">Why does everyone<br />keep fixating on that?</p>
+      <p begin="172.0s" id="p37" end="174.8s">She didn't know. How should I know?</p>
+      <p begin="176.6s" id="p38" end="179.3s">Sometimes I wish I was a lesbian.</p>
+      <p begin="180.9s" id="p39" end="182.9s">Did I say that out loud?</p>
+      <p begin="184.8s" id="p40" end="188.9s">All right, Ross. Look, you're feeling<br />a lot of pain right now.</p>
+      <p begin="189.1s" id="p41" end="191.5s">You're angry. You're hurting.</p>
+      <p begin="191.7s" id="p42" end="193.9s">Can I tell you what the answer is?</p>
+      <p begin="194.2s" id="p43" end="195.4s">Strip joints!</p>
+      <p begin="197.6s" id="p44" end="199.9s">Come on, you're single.<br />Have some hormones.</p>
+      <p begin="200.2s" id="p45" end="202.5s">See, but I don't want<br />to be single, okay?</p>
+      <p begin="202.7s" id="p46" end="205.8s">I just wanna be married again.</p>
+      <p begin="210.0s" id="p47" end="213.1s">And I just want a million dollars!</p>
+      <p begin="214.2s" id="p48" end="215.3s">Rachel?</p>
+      <p begin="215.5s" id="p49" end="218.2s">Oh, God, Monica! Hi! Thank God!</p>
+      <p begin="218.3s" id="p50" end="221.5s">I went to your building and<br />this guy with a hammer said...</p>
+      <p begin="221.7s" id="p51" end="223.9s">...that you might be here, and you are.</p>
+      <p begin="224.1s" id="p52" end="227.6s">- Can I get you some coffee?<br />- Decaf.</p>
+      <p begin="228.2s" id="p53" end="232.2s">Okay, everybody, this is Rachel,<br />another Lincoln High survivor.</p>
+      <p begin="232.4s" id="p54" end="234.9s">This is everybody.<br />This is Chandler and Phoebe...</p>
+      <p begin="235.1s" id="p55" end="237.4s">...and Joey. And remember<br />my brother, Ross?</p>
+      <p begin="237.5s" id="p56" end="238.7s">- Sure!<br />- Hey.</p>
+      <p begin="238.8s" id="p57" end="240.7s">- Hi.<br />- Oh, God.</p>
+      <p begin="247.0s" id="p58" end="248.3s">[SIGHS]</p>
+      <p begin="248.5s" id="p59" end="252.1s">So you wanna tell us now, or are we<br />waiting for four wet bridesmaids?</p>
+      <p begin="254.4s" id="p60" end="259.3s">Oh, God! Well, it started about<br />a half-hour before the wedding.</p>
+      <p begin="259.5s" id="p61" end="261.9s">I was in this room<br />with all the presents...</p>
+      <p begin="262.1s" id="p62" end="263.9s">...and I was looking<br />at this gravy boat.</p>
+      <p begin="264.1s" id="p63" end="267.6s">This really gorgeous<br />Limoges gravy boat.</p>
+      <p begin="267.7s" id="p64" end="269.6s">When all of a sudden...<br />Sweet 'N Low?</p>
+      <p begin="269.7s" id="p65" end="271.9s">- I realized...</p>
+      <p begin="272.0s" id="p66" end="275.9s">...I was more turned on by<br />this gravy boat than by Barry.</p>
+      <p begin="276.1s" id="p67" end="279.2s">Then I got really freaked out,<br />and that's when it hit me:</p>
+      <p begin="279.3s" id="p68" end="282.1s">How much Barry looks<br />like Mr. Potato Head.</p>
+      <p begin="282.5s" id="p69" end="285.8s">You know, I mean, I always knew<br />he looked familiar, but...</p>
+      <p begin="288.0s" id="p70" end="291.3s">Anyway, I just had to get out of there,<br />and I started wondering:</p>
+      <p begin="291.5s" id="p71" end="295.1s">"Why am I doing this?"<br />And "Who am I doing this for?"</p>
+      <p begin="295.3s" id="p72" end="299.7s">Anyway, I just didn't know where to go,<br />and I know you and I have drifted apart...</p>
+      <p begin="299.9s" id="p73" end="302.7s">...but you're the only person<br />I know in the city.</p>
+      <p begin="302.9s" id="p74" end="304.6s">Who wasn't invited to the wedding.</p>
+      <p begin="305.0s" id="p75" end="307.9s">Oh, I was kind of hoping that<br />wouldn't be an issue.</p>
+      <p begin="315.2s" id="p76" end="317.3s">[SPEAKING IN SPANISH<br />ON TV]</p>
+      <p begin="322.1s" id="p77" end="324.6s">I'm guessing he bought her<br />the big pipe organ...</p>
+      <p begin="324.7s" id="p78" end="327.2s">...and she's really not<br />happy about it.</p>
+      <p begin="328.5s" id="p79" end="331.5s">Daddy, I just... I can't marry him.</p>
+      <p begin="331.7s" id="p80" end="333.3s">I'm sorry.</p>
+      <p begin="333.5s" id="p81" end="336.4s">I just don't love him.</p>
+      <p begin="336.8s" id="p82" end="339.5s">Well, it matters to me.</p>
+      <p begin="342.0s" id="p83" end="344.4s">CHANDLER:<br />She should not be wearing those pants.</p>
+      <p begin="345.6s" id="p84" end="347.6s">I say push her down the stairs.</p>
+      <p begin="347.8s" id="p85" end="351.0s">ALL: Push her down the stairs!<br />Push her down the stairs!</p>
+      <p begin="351.4s" id="p86" end="352.5s">[ALL CHEER AND APPLAUD]</p>
+      <p begin="355.2s" id="p87" end="357.2s">Come on, Daddy, listen to me!</p>
+      <p begin="357.4s" id="p88" end="362.0s">It's like all of my life, everyone's<br />always told me, "You're a shoe!</p>
+      <p begin="362.2s" id="p89" end="364.2s">You're a shoe! You're a shoe!<br />You're a shoe!"</p>
+      <p begin="364.4s" id="p90" end="367.6s">Then today I stopped and said,<br />"What if I don't wanna be a shoe?</p>
+      <p begin="367.8s" id="p91" end="371.0s">What if I wanna be a purse?<br />You know?</p>
+      <p begin="371.2s" id="p92" end="373.0s">Or a hat?"</p>
+      <p begin="373.9s" id="p93" end="376.4s">I don't want you to buy me a hat,<br />I am a hat.</p>
+      <p begin="376.6s" id="p94" end="378.8s">It's a metaphor, Daddy!</p>
+      <p begin="380.5s" id="p95" end="382.4s">You can see where he'd have trouble.</p>
+      <p begin="385.6s" id="p96" end="387.5s">Look, Daddy, it's my life.</p>
+      <p begin="388.8s" id="p97" end="391.3s">Well, maybe I'll just stay<br />here with Monica.</p>
+      <p begin="394.3s" id="p98" end="396.8s">I guess we've established<br />she's staying with Monica.</p>
+      <p begin="398.9s" id="p99" end="401.7s">Well, maybe that's my decision.</p>
+      <p begin="402.3s" id="p100" end="404.5s">Well, maybe I don't need your money.</p>
+      <p begin="404.7s" id="p101" end="406.9s">Wait! Wait! I said maybe!</p>
+      <p begin="413.9s" id="p102" end="416.1s">Okay. Just breathe, that's it.</p>
+      <p begin="416.3s" id="p103" end="418.8s">Just try to think of nice, calm things.</p>
+      <p begin="419.0s" id="p104" end="422.9s">[SINGING] Raindrops on roses<br />And whiskers on kittens</p>
+      <p begin="423.3s" id="p105" end="427.2s">Doorbells and sleigh bells<br />And something with mittens</p>
+      <p begin="428.0s" id="p106" end="431.3s">La la la something<br />With string</p>
+      <p begin="431.5s" id="p107" end="433.4s">I'm all better now.</p>
+      <p begin="435.2s" id="p108" end="437.2s">I helped.</p>
+      <p begin="438.9s" id="p109" end="441.2s">MONICA: Look, this is probably<br />for the best, you know?</p>
+      <p begin="441.5s" id="p110" end="444.1s">Independence. Taking control of your life.</p>
+      <p begin="444.3s" id="p111" end="448.6s">And, hey, if you need anything,<br />you can always come to Joey.</p>
+      <p begin="448.8s" id="p112" end="452.2s">Me and Chandler live right<br />across the hall. And he's away a lot.</p>
+      <p begin="454.1s" id="p113" end="456.6s">Joey, stop hitting on her.<br />It's her wedding day.</p>
+      <p begin="456.8s" id="p114" end="458.8s">What? Like there's a rule or something?</p>
+      <p begin="459.5s" id="p115" end="460.6s">[INTERCOM BUZZES]</p>
+      <p begin="461.3s" id="p116" end="464.9s">Please don't do that again.<br />It's a horrible sound.</p>
+      <p begin="465.0s" id="p117" end="467.5s">PAUL: Uh, it's Paul.<br />- Buzz him in.</p>
+      <p begin="467.8s" id="p118" end="470.1s">- Who's Paul?<br />- Paul, the wine guy, Paul?</p>
+      <p begin="470.3s" id="p119" end="471.3s">Maybe.</p>
+      <p begin="471.5s" id="p120" end="474.8s">Wait a minute. Your "not a real date"<br />is with Paul, the wine guy?</p>
+      <p begin="475.0s" id="p121" end="476.8s">- He finally asked you out?<br />- Yes.</p>
+      <p begin="477.0s" id="p122" end="478.8s">Ooh. This is a "Dear Diary" moment.</p>
+      <p begin="480.3s" id="p123" end="481.8s">Rach, wait, I can cancel.</p>
+      <p begin="482.1s" id="p124" end="483.9s">Please, no. Go, I'll be fine.</p>
+      <p begin="484.0s" id="p125" end="487.7s">Ross, are you okay?<br />I mean, do you want me to stay?</p>
+      <p begin="488.6s" id="p126" end="490.7s">That'd be good.</p>
+      <p begin="491.1s" id="p127" end="494.9s">- Really?<br />- No, go on! It's Paul, the wine guy.</p>
+      <p begin="495.1s" id="p128" end="496.2s">[KNOCKING ON DOOR]</p>
+      <p begin="498.7s" id="p129" end="501.1s">MONICA:<br />Hi, come in. Paul, this is...</p>
+      <p begin="502.0s" id="p130" end="504.5s">...everybody. Everybody, this is Paul.</p>
+      <p begin="505.0s" id="p131" end="506.0s">JOEY:<br />Paul, the wine guy.</p>
+      <p begin="506.3s" id="p132" end="510.1s">- Wine guy.<br />- I didn't catch your name. Paul, was it?</p>
+      <p begin="510.5s" id="p133" end="513.1s">- Okay. Sit down. Two seconds.<br />- Okay.</p>
+      <p begin="513.6s" id="p134" end="516.0s">[MOUTHING]</p>
+      <p begin="517.2s" id="p135" end="520.3s">Ooh, I just pulled out four eyelashes.<br />That can't be good.</p>
+      <p begin="522.9s" id="p136" end="524.7s">So, Rachel,<br />what are you up to tonight?</p>
+      <p begin="525.3s" id="p137" end="529.1s">Well, I was supposed to be headed<br />for Aruba on my honeymoon...</p>
+      <p begin="529.3s" id="p138" end="530.3s">...so, nothing.</p>
+      <p begin="532.7s" id="p139" end="535.0s">Right. You're not even<br />getting your honeymoon.</p>
+      <p begin="535.2s" id="p140" end="539.2s">God. No, no. Although, Aruba. Heh.<br />This time of year? Eh.</p>
+      <p begin="539.4s" id="p141" end="542.0s">Talk about your...</p>
+      <p begin="542.1s" id="p142" end="543.2s">...big lizards.</p>
+      <p begin="548.0s" id="p143" end="550.7s">Anyway, if you don't feel<br />like being alone tonight...</p>
+      <p begin="550.9s" id="p144" end="553.7s">...Joey and Chandler are<br />helping me with my furniture.</p>
+      <p begin="553.9s" id="p145" end="557.1s">Yes, and we're very excited about it.</p>
+      <p begin="557.2s" id="p146" end="560.6s">Actually, thanks, but I'm just gonna<br />hang out here tonight.</p>
+      <p begin="560.7s" id="p147" end="562.8s">- It's been a long day.<br />- Oh, sure. Okay. Sure.</p>
+      <p begin="562.9s" id="p148" end="564.3s">Hey, Pheebs, you wanna help?</p>
+      <p begin="564.7s" id="p149" end="566.6s">Oh, I wish I could, but I don't want to.</p>
+      <p begin="574.9s" id="p150" end="579.3s">I'm supposed to attach a bracket-y<br />thing to the side things...</p>
+      <p begin="579.5s" id="p151" end="582.2s">...using a bunch of these<br />little worm guys.</p>
+      <p begin="583.4s" id="p152" end="588.2s">I have no bracket-y thing,<br />I see no worm guys whatsoever...</p>
+      <p begin="588.3s" id="p153" end="591.4s">...and I cannot feel my legs.</p>
+      <p begin="593.0s" id="p154" end="594.1s">What's this?</p>
+      <p begin="594.3s" id="p155" end="597.3s">I have no idea.</p>
+      <p begin="599.1s" id="p156" end="601.6s">- Done with the bookcase.<br />- All finished.</p>
+      <p begin="605.1s" id="p157" end="606.9s">This was Carol's favorite beer.</p>
+      <p begin="609.0s" id="p158" end="611.7s">She always drank it out of the can.<br />I should have known.</p>
+      <p begin="611.9s" id="p159" end="615.1s">Hey. Ross, let me ask you a question.</p>
+      <p begin="615.2s" id="p160" end="619.5s">She got the furniture,<br />the stereo, the good TV.</p>
+      <p begin="619.6s" id="p161" end="620.7s">What did you get?</p>
+      <p begin="621.0s" id="p162" end="622.0s">You guys.</p>
+      <p begin="622.2s" id="p163" end="624.3s">- Oh, God. Oh, my God.<br />- You got screwed.</p>
+      <p begin="624.5s" id="p164" end="628.8s">- Oh, my God.<br />- I know, I know. I'm such an idiot.</p>
+      <p begin="629.3s" id="p165" end="633.9s">I should've caught on when she went to<br />the dentist four and five times a week.</p>
+      <p begin="634.1s" id="p166" end="636.3s">I mean, how clean can teeth get?</p>
+      <p begin="636.4s" id="p167" end="638.8s">My brother's going through that.<br />He's such a mess.</p>
+      <p begin="639.0s" id="p168" end="640.7s">How did you get through it?</p>
+      <p begin="640.9s" id="p169" end="644.4s">He might try accidentally breaking<br />something valuable of hers.</p>
+      <p begin="644.6s" id="p170" end="646.1s">- Say her...<br />- Leg?</p>
+      <p begin="646.3s" id="p171" end="648.2s">Heh. That's one way of going through it,<br />yeah.</p>
+      <p begin="648.8s" id="p172" end="650.3s">Me, I went for the watch.</p>
+      <p begin="650.8s" id="p173" end="652.7s">- You actually broke her watch?<br />- Mm.</p>
+      <p begin="653.3s" id="p174" end="656.4s">Barry, I'm sorry. I am so sorry.</p>
+      <p begin="656.6s" id="p175" end="661.5s">You probably think it's about making<br />love with your socks on, but it isn't.</p>
+      <p begin="661.7s" id="p176" end="664.5s">It isn't, it's about me. And I...</p>
+      <p begin="664.7s" id="p177" end="666.7s">[SIGHS]</p>
+      <p begin="671.6s" id="p178" end="674.6s">Hi. Machine cut me off again.<br />Anyway...</p>
+      <p begin="676.4s" id="p179" end="680.5s">You know what's scary? What if<br />there's only one woman for everybody?</p>
+      <p begin="680.7s" id="p180" end="684.1s">I mean, what if you get one<br />woman, and that's it?</p>
+      <p begin="684.2s" id="p181" end="689.1s">Unfortunately, in my case,<br />there was only one woman for her.</p>
+      <p begin="689.6s" id="p182" end="692.8s">What are you talking about?<br />One woman.</p>
+      <p begin="693.4s" id="p183" end="697.0s">That's like saying there's only<br />one flavor of ice cream for you.</p>
+      <p begin="697.2s" id="p184" end="700.9s">Let me tell you something, Ross.<br />There's lots of flavors out there.</p>
+      <p begin="701.1s" id="p185" end="705.6s">There's rocky road and cookie dough<br />and bing cherry vanilla.</p>
+      <p begin="706.2s" id="p186" end="710.7s">You can get them with jimmies<br />or nuts or whipped cream.</p>
+      <p begin="711.0s" id="p187" end="713.6s">This is the best thing that<br />ever happened to you.</p>
+      <p begin="713.8s" id="p188" end="716.7s">You got married. You were like, what, 8?</p>
+      <p begin="718.6s" id="p189" end="722.6s">Welcome back to the world. Grab a spoon.</p>
+      <p begin="722.8s" id="p190" end="725.3s">I honestly don't know<br />if I'm hungry or horny.</p>
+      <p begin="725.8s" id="p191" end="727.2s">Then stay out of my freezer.</p>
+      <p begin="730.9s" id="p192" end="734.4s">Ever since she walked out on me, I...</p>
+      <p begin="734.7s" id="p193" end="736.7s">What? What?</p>
+      <p begin="736.8s" id="p194" end="738.7s">You wanna spell it out with noodles?</p>
+      <p begin="738.9s" id="p195" end="742.4s">No, it's more of a fifth date<br />kind of revelation.</p>
+      <p begin="743.2s" id="p196" end="746.3s">Oh, so there's gonna be a fifth date?</p>
+      <p begin="747.8s" id="p197" end="749.5s">Isn't there?</p>
+      <p begin="749.7s" id="p198" end="751.9s">Yeah, yeah. I think there is.</p>
+      <p begin="753.7s" id="p199" end="755.4s">What were you gonna say?</p>
+      <p begin="757.0s" id="p200" end="759.2s">Well... Er, uh...</p>
+      <p begin="760.3s" id="p201" end="762.6s">Ever since she left me, um...</p>
+      <p begin="763.7s" id="p202" end="767.0s">...I haven't been able to perform...</p>
+      <p begin="767.2s" id="p203" end="768.4s">...sexually.</p>
+      <p begin="771.3s" id="p204" end="772.8s">Oh, God! Oh, God! I am so...</p>
+      <p begin="773.0s" id="p205" end="774.2s">- I'm so sorry.<br />- It's okay.</p>
+      <p begin="774.4s" id="p206" end="777.9s">Being spit on is probably<br />not what you need right now.</p>
+      <p begin="778.0s" id="p207" end="779.7s">Um...</p>
+      <p begin="780.1s" id="p208" end="781.2s">How long?</p>
+      <p begin="781.7s" id="p209" end="782.8s">Two years.</p>
+      <p begin="783.6s" id="p210" end="785.3s">Wow!</p>
+      <p begin="785.5s" id="p211" end="788.4s">I'm glad you smashed her watch.</p>
+      <p begin="790.4s" id="p212" end="793.8s">So you still think you might<br />want that fifth date?</p>
+      <p begin="796.8s" id="p213" end="798.3s">Yeah.</p>
+      <p begin="798.5s" id="p214" end="800.3s">Yeah, I do.</p>
+      <p begin="801.6s" id="p215" end="804.9s">I, Joanie, take you, Charles,<br />as my lawful husband.</p>
+      <p begin="805.2s" id="p216" end="808.5s">MINISTER: Do you take Joanie...?<br />- Oh! See.</p>
+      <p begin="808.6s" id="p217" end="813.9s">But Joanie loved Chachi.<br />That's the difference.</p>
+      <p begin="815.4s" id="p218" end="816.8s">"Grab a spoon."</p>
+      <p begin="817.1s" id="p219" end="819.6s">Do you know long it's been<br />since I grabbed a spoon?</p>
+      <p begin="820.1s" id="p220" end="822.9s">Do the words, "Billy, don't be<br />a hero," mean anything to you?</p>
+      <p begin="825.2s" id="p221" end="829.7s">You know, here's the thing.<br />Even if I could get it together enough...</p>
+      <p begin="829.9s" id="p222" end="832.4s">...to ask a woman out...</p>
+      <p begin="832.9s" id="p223" end="835.3s">...who am I gonna ask?</p>
+      <p begin="856.6s" id="p224" end="858.0s">Isn't this amazing?</p>
+      <p begin="858.1s" id="p225" end="860.5s">I mean, I have never made coffee<br />before in my life.</p>
+      <p begin="860.7s" id="p226" end="863.2s">- That is amazing.<br />- Congratulations.</p>
+      <p begin="863.4s" id="p227" end="868.1s">While you're on a roll, if you feel like you<br />gotta make a Western omelet or something...</p>
+      <p begin="871.0s" id="p228" end="874.5s">Although, actually I'm really<br />not that hungry this morning.</p>
+      <p begin="875.4s" id="p229" end="876.7s">- Good morning.<br />MONICA: Good morning.</p>
+      <p begin="876.9s" id="p230" end="878.5s">- Morning.<br />JOEY: Morning.</p>
+      <p begin="879.4s" id="p231" end="881.6s">- Morning.<br />JOEY: Morning, Paul.</p>
+      <p begin="881.8s" id="p232" end="885.0s">- Hello, Paul.<br />- Hi. Paul, is it?</p>
+      <p begin="889.1s" id="p233" end="891.8s">MONICA:<br />I had a really great time last night.</p>
+      <p begin="892.0s" id="p234" end="893.9s">PAUL:<br />Thank you. Thank you so much.</p>
+      <p begin="894.6s" id="p235" end="897.5s">- We'll talk later, okay?<br />- Yeah.</p>
+      <p begin="902.2s" id="p236" end="904.0s">Thank you.</p>
+      <p begin="909.8s" id="p237" end="912.6s">That wasn't a real date.</p>
+      <p begin="913.3s" id="p238" end="916.2s">What the hell do you do<br />on a real date?</p>
+      <p begin="917.0s" id="p239" end="920.5s">- Shut up and put my table back.<br />JOEY: Okay.</p>
+      <p begin="920.7s" id="p240" end="922.5s">All right, kids, I gotta get to work.</p>
+      <p begin="922.8s" id="p241" end="928.3s">If I don't input those numbers,<br />it doesn't make much of a difference.</p>
+      <p begin="931.3s" id="p242" end="933.4s">So, like, you guys all have jobs?</p>
+      <p begin="934.2s" id="p243" end="935.9s">Yeah, we all have jobs.</p>
+      <p begin="936.1s" id="p244" end="938.7s">See, that's how we buy stuff.</p>
+      <p begin="940.4s" id="p245" end="941.6s">Yeah, I'm an actor.</p>
+      <p begin="941.9s" id="p246" end="944.1s">Wow. Would I have seen you in anything?</p>
+      <p begin="944.3s" id="p247" end="946.6s">Oh, I doubt it. Mostly regional work.</p>
+      <p begin="946.8s" id="p248" end="950.4s">Unless you happened to catch the<br />Wee One's production of Pinocchio.</p>
+      <p begin="950.7s" id="p249" end="953.2s">"Look, Geppeto. I'm a real live boy."</p>
+      <p begin="956.0s" id="p250" end="957.7s">I will not take this abuse.</p>
+      <p begin="958.0s" id="p251" end="959.9s">You're right. I'm sorry.</p>
+      <p begin="960.3s" id="p252" end="963.0s">[SINGING] Once I was a wooden boy<br />A little wooden boy</p>
+      <p begin="967.1s" id="p253" end="969.5s">MONICA: So how are you doing today?<br />Did you sleep okay?</p>
+      <p begin="969.7s" id="p254" end="973.0s">Did you talk to Barry?<br />I can't stop smiling.</p>
+      <p begin="973.8s" id="p255" end="977.7s">I can see that. You look like you<br />slept with a hanger in your mouth.</p>
+      <p begin="982.9s" id="p256" end="986.4s">I know. He's just so...</p>
+      <p begin="986.6s" id="p257" end="988.1s">Remember you and Tony De Marco?</p>
+      <p begin="988.3s" id="p258" end="992.3s">- Oh, yeah.<br />- Well, it's like that. With feelings.</p>
+      <p begin="993.2s" id="p259" end="994.9s">Oh, wow, are you in trouble!</p>
+      <p begin="995.5s" id="p260" end="999.3s">Okay, okay. I am just going to get up,<br />go to work...</p>
+      <p begin="999.5s" id="p261" end="1002.2s">...and not think about him all day.</p>
+      <p begin="1002.4s" id="p262" end="1005.3s">Or else I'm just gonna<br />get up and go to work.</p>
+      <p begin="1005.5s" id="p263" end="1007.1s">- Oh, wish me luck!<br />- What for?</p>
+      <p begin="1007.3s" id="p264" end="1010.6s">I'm gonna go get one<br />of those job things.</p>
+      <p begin="1018.6s" id="p265" end="1021.2s">- Hey, Monica.<br />- Hey, Franny. Welcome back.</p>
+      <p begin="1021.4s" id="p266" end="1022.9s">How was Florida?</p>
+      <p begin="1023.1s" id="p267" end="1024.4s">You had sex, didn't you?</p>
+      <p begin="1026.3s" id="p268" end="1027.3s">How do you do that?</p>
+      <p begin="1028.4s" id="p269" end="1032.2s">- So, who?<br />- You know Paul?</p>
+      <p begin="1032.8s" id="p270" end="1034.4s">Paul, the wine guy?</p>
+      <p begin="1034.5s" id="p271" end="1036.1s">Oh, yeah, I know Paul.</p>
+      <p begin="1038.7s" id="p272" end="1041.2s">You mean, you know Paul<br />like I know Paul?</p>
+      <p begin="1041.4s" id="p273" end="1043.7s">Are you kidding? I take credit for Paul.</p>
+      <p begin="1043.8s" id="p274" end="1048.0s">Before me, there was no snap<br />in his turtle for two years.</p>
+      <p begin="1051.2s" id="p275" end="1053.8s">Of course it was a line.</p>
+      <p begin="1054.2s" id="p276" end="1056.8s">Why? Why would anybody<br />do something like that?</p>
+      <p begin="1057.1s" id="p277" end="1060.3s">We're looking for an answer<br />more sophisticated than:</p>
+      <p begin="1060.5s" id="p278" end="1062.4s">"To get you into bed."</p>
+      <p begin="1063.4s" id="p279" end="1065.0s">Is it me?</p>
+      <p begin="1065.2s" id="p280" end="1068.7s">Is it like I have some sort of<br />beacon that only dogs...</p>
+      <p begin="1068.9s" id="p281" end="1071.5s">...and men with severe emotional<br />problems can hear?</p>
+      <p begin="1071.7s" id="p282" end="1073.7s">All right, come here. Give me your feet.</p>
+      <p begin="1081.2s" id="p283" end="1083.0s">I just thought he was nice, you know?</p>
+      <p begin="1085.9s" id="p284" end="1088.3s">I can't believe you<br />didn't know it was a line.</p>
+      <p begin="1093.2s" id="p285" end="1094.3s">Guess what.</p>
+      <p begin="1094.4s" id="p286" end="1096.2s">- You got a job?<br />- Are you kidding?</p>
+      <p begin="1096.4s" id="p287" end="1098.1s">I'm trained for nothing.</p>
+      <p begin="1099.9s" id="p288" end="1101.9s">I was laughed out of 12 interviews today.</p>
+      <p begin="1102.1s" id="p289" end="1103.6s">Yet you're surprisingly upbeat.</p>
+      <p begin="1103.9s" id="p290" end="1107.4s">Well, you would be too if you found<br />Joan and David boots on sale...</p>
+      <p begin="1107.5s" id="p291" end="1109.3s">...50 percent off.</p>
+      <p begin="1109.5s" id="p292" end="1111.3s">Oh, how well you know me.</p>
+      <p begin="1112.9s" id="p293" end="1115.4s">They're my new "I don't need<br />a job or my parents.</p>
+      <p begin="1115.6s" id="p294" end="1117.8s">I've got great boots" boots.</p>
+      <p begin="1119.2s" id="p295" end="1121.4s">- How'd you pay for them?<br />- Uh, credit card.</p>
+      <p begin="1121.9s" id="p296" end="1123.6s">And who pays for that?</p>
+      <p begin="1124.2s" id="p297" end="1126.3s">Um, my father.</p>
+      <p begin="1128.9s" id="p298" end="1131.1s">You can't live off your parents<br />your whole life.</p>
+      <p begin="1131.3s" id="p299" end="1135.0s">I know that. That's why<br />I was getting married.</p>
+      <p begin="1135.3s" id="p300" end="1138.3s">Give her a break. It's hard being<br />on your own for the first time.</p>
+      <p begin="1138.5s" id="p301" end="1140.0s">- Thank you.<br />- You're welcome.</p>
+      <p begin="1140.2s" id="p302" end="1142.9s">I remember when I first came<br />to this city, I was 14.</p>
+      <p begin="1143.1s" id="p303" end="1145.9s">My mom had killed herself<br />and my stepdad was back in prison.</p>
+      <p begin="1146.1s" id="p304" end="1148.1s">And I got here,<br />and I didn't know anybody.</p>
+      <p begin="1148.3s" id="p305" end="1151.7s">I ended up living with this albino<br />guy who was cleaning windshields...</p>
+      <p begin="1151.9s" id="p306" end="1155.7s">...outside Port Authority.<br />And then he killed himself.</p>
+      <p begin="1156.4s" id="p307" end="1160.2s">And then I found aromatherapy.<br />So believe me, I know exactly how you feel.</p>
+      <p begin="1164.4s" id="p308" end="1167.1s">The word you're looking for is:</p>
+      <p begin="1167.7s" id="p309" end="1169.0s">"Anyway..."</p>
+      <p begin="1173.1s" id="p310" end="1174.3s">All right. You ready?</p>
+      <p begin="1174.4s" id="p311" end="1176.1s">- I don't think so.<br />ROSS: Oh, come on.</p>
+      <p begin="1176.5s" id="p312" end="1177.9s">Cut. Cut.</p>
+      <p begin="1178.1s" id="p313" end="1181.1s">ALL:<br />Cut, cut, cut.</p>
+      <p begin="1182.7s" id="p314" end="1185.6s">ROSS: Hey.<br />MONICA: All right.</p>
+      <p begin="1185.9s" id="p315" end="1187.6s">Welcome to the real world.</p>
+      <p begin="1187.8s" id="p316" end="1190.5s">It sucks. You're gonna love it.</p>
+      <p begin="1191.4s" id="p317" end="1193.5s">[FRANCIS SCOTT KEY'S "STAR-SPANGLED<br />BANNER" PLAYS ON TV]</p>
+      <p begin="1197.4s" id="p318" end="1200.8s">Well, that's it.<br />You gonna crash on the couch?</p>
+      <p begin="1201.0s" id="p319" end="1204.3s">- No. No, I gotta go home sometime.<br />- Are you gonna be okay?</p>
+      <p begin="1204.5s" id="p320" end="1206.0s">Yeah.</p>
+      <p begin="1207.0s" id="p321" end="1208.9s">Look what I just found on the floor.</p>
+      <p begin="1211.2s" id="p322" end="1212.5s">What?</p>
+      <p begin="1212.9s" id="p323" end="1214.4s">That's Paul's watch.</p>
+      <p begin="1214.6s" id="p324" end="1216.7s">You can just put it back<br />where you found it.</p>
+      <p begin="1218.3s" id="p325" end="1221.8s">Oh, boy. All right.<br />Good night, everybody.</p>
+      <p begin="1221.9s" id="p326" end="1223.0s">ROSS & RACHEL:<br />Good night.</p>
+      <p begin="1223.1s" id="p327" end="1225.1s">[WATCH CRACKS]</p>
+      <p begin="1228.9s" id="p328" end="1230.4s">[DOOR CLOSES]</p>
+      <p begin="1231.5s" id="p329" end="1233.1s">- Hmm.<br />- Hmm.</p>
+      <p begin="1234.3s" id="p330" end="1235.5s">- Oh, sorry.<br />- No. Oh, no. Go.</p>
+      <p begin="1235.7s" id="p331" end="1237.7s">- No, have it, really.<br />- Split it?</p>
+      <p begin="1237.8s" id="p332" end="1239.8s">- Okay.<br />- Okay.</p>
+      <p begin="1241.7s" id="p333" end="1242.8s">Thanks.</p>
+      <p begin="1243.5s" id="p334" end="1247.1s">You probably didn't know this,<br />but back in high school I had...</p>
+      <p begin="1247.2s" id="p335" end="1249.1s">...a major crush on you.</p>
+      <p begin="1250.5s" id="p336" end="1251.7s">I knew.</p>
+      <p begin="1252.1s" id="p337" end="1254.3s">You did? Oh.</p>
+      <p begin="1255.1s" id="p338" end="1258.1s">I figured you thought I was<br />Monica's geeky older brother.</p>
+      <p begin="1258.9s" id="p339" end="1260.9s">- I did.<br />- Oh.</p>
+      <p begin="1265.5s" id="p340" end="1267.3s">Listen, do you think...</p>
+      <p begin="1267.5s" id="p341" end="1271.0s">And try not to let my vulnerability<br />become any kind of a factor here.</p>
+      <p begin="1273.1s" id="p342" end="1277.0s">Do you think it would be okay if<br />I ask you out sometime, maybe?</p>
+      <p begin="1278.2s" id="p343" end="1280.1s">Yeah.</p>
+      <p begin="1280.5s" id="p344" end="1281.8s">Maybe.</p>
+      <p begin="1282.8s" id="p345" end="1284.7s">Okay.</p>
+      <p begin="1289.4s" id="p346" end="1291.9s">Okay, maybe I will.</p>
+      <p begin="1294.2s" id="p347" end="1295.7s">[RACHEL CHUCKLES]</p>
+      <p begin="1295.8s" id="p348" end="1298.0s">- Good night.<br />- Good night.</p>
+      <p begin="1301.0s" id="p349" end="1303.0s">[DOOR OPENS THEN CLOSES]</p>
+      <p begin="1308.4s" id="p350" end="1310.4s">[DOOR OPENS]</p>
+      <p begin="1311.5s" id="p351" end="1313.2s">See you.</p>
+      <p begin="1313.7s" id="p352" end="1314.8s">ROSS:<br />Mm-hm.</p>
+      <p begin="1314.9s" id="p353" end="1317.4s">Wait, wait. Hey, what's with you?</p>
+      <p begin="1319.7s" id="p354" end="1322.3s">I just grabbed a spoon.</p>
+      <p begin="1330.5s" id="p355" end="1332.0s">Can't believe what I'm hearing.</p>
+      <p begin="1332.2s" id="p356" end="1333.9s">[SINGING] I can't believe<br />What I'm hearing here</p>
+      <p begin="1334.0s" id="p357" end="1336.3s">- What? I said you had...<br />- What? I said you had...</p>
+      <p begin="1337.3s" id="p358" end="1339.8s">- Would you stop?<br />- Oh, was I doing it again?</p>
+      <p begin="1340.0s" id="p359" end="1341.8s">ALL:<br />Yes.</p>
+      <p begin="1342.8s" id="p360" end="1344.8s">WOMAN:<br />Would anybody like more coffee?</p>
+      <p begin="1346.7s" id="p361" end="1349.2s">Did you make it or are you just serving it?</p>
+      <p begin="1349.3s" id="p362" end="1352.6s">- I'm just serving it.<br />CHANDLER: I'll have a cup of coffee.</p>
+      <p begin="1353.1s" id="p363" end="1354.4s">Kids, new dream.</p>
+      <p begin="1355.1s" id="p364" end="1358.4s">I'm in Las Vegas. I'm Liza Minnelli.</p>
+    </div>
+  </body>
+</tt>
